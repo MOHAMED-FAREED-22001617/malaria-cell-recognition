@@ -11,10 +11,11 @@ Traditional methods of malaria diagnosis involve manual inspection of blood smea
 
 Our dataset comprises 27,558 cell images, evenly split between parasitized and uninfected cells. These images have been meticulously collected and annotated by medical experts, making them a reliable source for training and testing our deep neural network.
 ## dataset:
-![output](dataset.png)
+![image](https://github.com/MOHAMED-FAREED-22001617/malaria-cell-recognition/assets/121412904/5fd58d3d-5033-4d02-82d6-ea6b363a041c)
+
 ## Neural Network Model
 
-![output](network.png)
+![image](https://github.com/MOHAMED-FAREED-22001617/malaria-cell-recognition/assets/121412904/e1abbf96-7dd8-43a5-b9fd-0dd45e4ee4c3)
 
 ## DESIGN STEPS
 
@@ -200,16 +201,19 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![output](grap.png)
+![image](https://github.com/MOHAMED-FAREED-22001617/malaria-cell-recognition/assets/121412904/820181c7-d8d0-4c56-b2e5-9b41be060bf6)
+
 ### Classification Report
-![output](report.png)
+![image](https://github.com/MOHAMED-FAREED-22001617/malaria-cell-recognition/assets/121412904/ac91a1d0-d46e-4f2c-911d-34777468cee8)
 
 ### Confusion Matrix
 
-![output](confu.png)
+![image](https://github.com/MOHAMED-FAREED-22001617/malaria-cell-recognition/assets/121412904/03913497-27b3-4434-a09e-05817eec42ba)
+
 
 ### New Sample Data Prediction
-![output](new.png)
+![image](https://github.com/MOHAMED-FAREED-22001617/malaria-cell-recognition/assets/121412904/b698ea89-f06b-41dd-8b57-72ed84d3b73f)
+
 
 
 ## RESULT
